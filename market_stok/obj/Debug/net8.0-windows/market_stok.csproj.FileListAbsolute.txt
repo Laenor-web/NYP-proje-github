@@ -1,0 +1,64 @@
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.exe
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.deps.json
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.runtimeconfig.json
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.pdb
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.csproj.GenerateResource.cache
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.AssemblyInfoInputs.cache
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.AssemblyInfo.cs
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.csproj.CoreCompileInputs.cache
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\refint\market_stok.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.pdb
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.genruntimeconfig.cache
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\ref\market_stok.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.kategori.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.musteri_ekle.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.musteri_listele.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.marka.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.csproj.AssemblyReference.cache
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.csproj.CopyComplete
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.urun_ekle.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.urun_listele.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.satis_ekrani.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.satislarim.resources
+C:\Users\Recep Ali\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.girisekrani.resources
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.exe
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.deps.json
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.runtimeconfig.json
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.dll
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\market_stok.pdb
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\market_stok\market_stok\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.girisekrani.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.kategori.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.marka.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.musteri_ekle.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.musteri_listele.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.satislarim.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.satis_ekrani.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.urun_ekle.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.urun_listele.resources
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.csproj.GenerateResource.cache
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.AssemblyInfo.cs
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_s.4D4389BC.Up2Date
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.dll
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\refint\market_stok.dll
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.pdb
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\market_stok.genruntimeconfig.cache
+C:\Users\user\source\repos\market_stok\market_stok\obj\Debug\net8.0-windows\ref\market_stok.dll
